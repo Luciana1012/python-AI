@@ -1,0 +1,39 @@
+Why to Learn Python?, Python is a high-level; interpreted; interactive and object-oriented scripting language. It uses English keywords frequently where as other languages use punctuation; and it has fewer syntactical constructions than other languages.
+high level, it is designed to be highly readable. Is highly abstracted from the Assembly Language used to provide instructions to the CPU.
+Interpreted, meaning it is processed at runtime by the interpreter. You do not need to compile your program before executing it.
+Interactive, easy to check with prompt and exchange while writing the program.
+Object-Oriented, it supports Object-Oriented style or technique of programming that encapsulates code within objects.
+Which are python reserved words?, and; assert; break; class; continue; def; del; elif; else; except; exec; finally; for; from; global; if; import; in; is; lambda; not; or; pass; print; raise; return; while; with; yield
+reserved words, these can't be used as constants or variables or any other identifier names.
+How is Python Indentation?, Python uses indentation to indicate a block of code. It relies on indentation (whitespace at the beginning of a line) to define scope in the code. Other programming languages often use curly-brackets for this purpose.
+Indentation, refers to the spaces at the beginning of a code line.
+How do you create variables in Python?, Python has no command for declaring a variable; they are created when you assign a value to it
+variables, are containers for storing data values.
+Which are the different types of arrays in Python?, There are four collection data types in the Python: list; tuple; set; dictionary
+arrays, are collections of data types. They are special variables; which store multiple values in one single variable.
+list, a data set which is ordered and changeable. In Python lists are written with square brackets.
+tuple, a collection which is ordered and unchangeable. In Python tuples are written with round brackets.
+set, is a collection which is unordered and unindexed. In Python; sets are written with curly brackets.
+Dictionary, is a collection which is unordered; changeable and indexed. In Python dictionaries are written with curly brackets; and they have keys and values.
+How python behaves in decision making?, Python understands: if statements; if...else statements and nested if statements.
+decision making, is anticipation of conditions occurring while execution of the program and specifying actions taken according to the conditions. It evaluates multiple expressions which produce TRUE or FALSE as outcome.
+if statements, An if statement consists of a boolean expression followed by one or more statements.
+if...else statements, An if statement can be followed by an optional else statement; which executes when the boolean expression is FALSE.
+nested if statement, it can be used one if or else if statement inside another if or else if statement(s).
+Which are the loops in python?, Python has two primitive loop commands: while and for
+while, With it we can execute a set of statements as long as a condition is true.
+for, it is used for iterating over a sequence (that is either a list; a tuple; a dictionary; a set; or a string). It works more like an iterator method.
+How are functions defined in python?, It is defined using the def keyword.
+functions, is a block of code which only runs when it is called. You can pass data; known as parameters; into a function. A function can return data as a result.
+How is python an object oriented programming language?, Almost everything in Python is an object; with its properties and methods.
+object, is an abstract data type created with properties and methods and may even contain other objects. In most programming languages; objects are defined as classes and provide a structured approach to programming.
+class, is like an object constructor for creating objects.
+methods, in objects are functions that belong to the object.
+How are python iterators?, an iterator is an object which implements the iterator protocol; which consist of the methods __iter__() and __next__().
+itearator, is an object that contains a countable number of values. It is an object that can be iterated upon; meaning that you can traverse through all the values.
+
+
+
+
+
+
