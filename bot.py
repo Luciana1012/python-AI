@@ -1,3 +1,7 @@
+# Python version 3.7
+# pip install chatterbot==1.0.4
+
+
 import csv
 import os
 
@@ -8,7 +12,7 @@ from chatterbot.trainers import ChatterBotCorpusTrainer
 # print(os.getcwd())
 
 #opening the file
-file = open(os.getcwd() + "\Desktop\data1.txt", "r")
+file = open(os.getcwd() + "/Documents/Intech/Assignaments/Term 4/data1.txt", "r")
 
 #declaring variable
 data = []
@@ -25,7 +29,7 @@ while True:
 #CREATE THE AI OBJECT
 chatbot = ChatBot('BrisbaneBot')
 
-#TRAIN THE AI WITH ENGLISH + SPANIS LANGUAGE
+#TRAIN THE AI WITH ENGLISH + SPANISH LANGUAGE
 trainer_corpus = ChatterBotCorpusTrainer(chatbot)
 trainer_corpus.train(
     'chatterbot.corpus.english',
