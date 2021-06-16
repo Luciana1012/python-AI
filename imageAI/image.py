@@ -1,3 +1,6 @@
+#Run with python 3.7
+
+
 from imageai.Prediction.Custom import ModelTraining
 import os
 
